@@ -1,4 +1,4 @@
 {
-      "showGoogleSignInButton": true
-      
+  "showGoogleSignInButton": true,
+  "googleSignInByBuild": {"32": false }
 }
